@@ -1,0 +1,15 @@
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/bin/Debug/net6.0/TaskB
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/bin/Debug/net6.0/TaskB.deps.json
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/bin/Debug/net6.0/TaskB.runtimeconfig.json
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/bin/Debug/net6.0/TaskB.dll
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/bin/Debug/net6.0/TaskB.pdb
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/TaskB.csproj.AssemblyReference.cache
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/TaskB.GeneratedMSBuildEditorConfig.editorconfig
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/TaskB.AssemblyInfoInputs.cache
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/TaskB.AssemblyInfo.cs
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/TaskB.csproj.CoreCompileInputs.cache
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/TaskB.dll
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/refint/TaskB.dll
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/TaskB.pdb
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/TaskB.genruntimeconfig.cache
+/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/Debug/net6.0/ref/TaskB.dll
