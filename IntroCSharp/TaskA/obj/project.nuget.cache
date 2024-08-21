@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9m8bWpSuF/MvMzKfa/QWLoQK7vjKedSe9k5T5U9/hZkRcT1xnC/RQRoxa0Ox1K7e2SSEVrPkQQagsdX3RlkmxA==",
+  "dgSpecHash": "zOMKB4sFxo3Ot4ay2SFuDjlq6/fRBcCWVg01Qg49JAUmposY5+KLHVxnWMJT4M+yx6kKKBX4/GfzyFp08a/b6Q==",
   "success": true,
-  "projectFilePath": "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskA/TaskA.csproj",
+  "projectFilePath": "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskA/TaskA.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

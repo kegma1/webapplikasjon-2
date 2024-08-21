@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/TaskB.csproj",
+      "projectUniqueName": "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskB/TaskB.csproj",
       "projectName": "TaskB",
-      "projectPath": "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/TaskB.csproj",
+      "projectPath": "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskB/TaskB.csproj",
       "packagesPath": "/home/kennet/.nuget/packages/",
-      "outputPath": "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskB/obj/",
+      "outputPath": "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskB/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kennet/.nuget/NuGet/NuGet.Config"
@@ -49,8 +49,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -59,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/kennet/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskA/TaskA.csproj": {}
+    "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskA/TaskA.csproj": {}
   },
   "projects": {
-    "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskA/TaskA.csproj": {
+    "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskA/TaskA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskA/TaskA.csproj",
+        "projectUniqueName": "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskA/TaskA.csproj",
         "projectName": "TaskA",
-        "projectPath": "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskA/TaskA.csproj",
+        "projectPath": "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskA/TaskA.csproj",
         "packagesPath": "/home/kennet/.nuget/packages/",
-        "outputPath": "/home/kennet/programering/webapplikasjon2/ConsoleApp1/TaskA/obj/",
+        "outputPath": "/home/kennet/programering/webapplikasjon2/IntroCSharp/TaskA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kennet/.nuget/NuGet/NuGet.Config"
@@ -43,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/kennet/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
         }
       }
     }
